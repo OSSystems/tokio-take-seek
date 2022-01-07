@@ -1,0 +1,7 @@
+# Rust project
+/target
+Cargo.lock
+
+# Emacs swap files
+.\#*
+\#*

@@ -1,0 +1,11 @@
+version = "Two"
+edition = "2021"
+
+use_small_heuristics = "Max"
+reorder_imports = true
+condense_wildcard_suffixes = true
+imports_granularity="Crate"
+reorder_impl_items = true
+use_field_init_shorthand = true
+use_try_shorthand = true
+wrap_comments = true
